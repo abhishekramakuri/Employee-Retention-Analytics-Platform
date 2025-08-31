@@ -10,7 +10,7 @@ This project focuses on **employee retention analysis** through data-driven insi
 - **Interactive Dashboard**: A **Tableau dashboard** visualizes key metrics, such as attrition rate, tenure, and monthly income distribution.
 - **Data-Driven Insights**: Highlights department-specific attrition rates and key metrics like employee tenure and compensation trends.
 
-## roject Structure
+## Project Structure
 ```
 .
 ├── data/                # Contains datasets used for training and evaluation
