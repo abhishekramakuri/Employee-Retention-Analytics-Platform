@@ -75,8 +75,6 @@ Contains Tableau workbooks (`.twb/.twbx`) and dashboards for interactive visuali
   imbalanced-learn
   ```
 
-   ```
-
 ### Running the Project
 1. **Data Analysis**:
    - Open Jupyter Notebooks in the `notebooks/` directory to explore data and model development.
@@ -90,11 +88,4 @@ Contains Tableau workbooks (`.twb/.twbx`) and dashboards for interactive visuali
 ## Future Work
 - Expansion of dashboard features to include predictive insights.
 - Incorporating real-world organizational datasets for improved applicability.
----
 
-
-
----
-
-
----
